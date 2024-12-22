@@ -1,4 +1,7 @@
 name: Daily Weather Analysis
+permissions:
+  contents: write  # Write access for commits
+  issues: write
 
 on:
   schedule:
